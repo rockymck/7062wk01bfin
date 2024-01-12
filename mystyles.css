@@ -1,0 +1,13 @@
+.mylink{
+    padding: 20px;
+    background-color: lightgray;
+    display: inline-block;
+}
+.mynav{
+    margin: 100px;
+    border: thin solid red;
+    
+}
+.bkgrd{
+    background-color: burlywood;
+}
